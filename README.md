@@ -55,7 +55,7 @@ app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/DEPI_Event_CountDown.git
+   git clone https://github.com/Akram222333/DEPI_Event_CountDown.git
    ```
 
 2. **Open in Android Studio**
