@@ -101,7 +101,7 @@ androidx.cardview:cardview:1.0.0
 ## 👤 Author
 
 **Akram Muhammad Ali**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/akram-el-metwally-04896333a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-el-metwally-04896333a)
 
 ---
 
